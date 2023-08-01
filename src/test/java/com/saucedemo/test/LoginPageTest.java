@@ -1,5 +1,6 @@
 package com.saucedemo.test;
 
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -7,7 +8,7 @@ import com.saucedemo.Testbase.TestBase;
 import com.saucedemo.pages.LoginPage;
 
 public class LoginPageTest  extends TestBase{ 
-
+      
 	@Test
 	public void validateUnAndPas() throws InterruptedException
 	{

@@ -1,0 +1,6 @@
+com\saucedemo\utility\ConfigReader.class
+com\saucedemo\test\LoginPageTest.class
+com\saucedemo\Testbase\TestBase.class
+com\saucedemo\utility\Screenshots.class
+com\saucedemo\extentListeners\ListenerSetUp.class
+com\saucedemo\extentListeners\ExtentReportGen.class
