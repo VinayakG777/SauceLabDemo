@@ -11,7 +11,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExcelReader {
 	
-	public  static HashMap<String, String>  readExcel() throws IOException
+	//public  static HashMap<String, String>  readExcel() throws IOException
 	{
 		String path=System.getProperty("user.dir")+"\\src\\test\\resources\\TestData\\saucedemologin.xlsx";
 		File file=new File(path);
@@ -35,6 +35,6 @@ public class ExcelReader {
 		{
 			ok;
 		}
-	}
+	}//
 
 }
