@@ -27,7 +27,7 @@ public class TestBase {
 	}
 	String url=	conf.readConfig("testsiteurl");
 	driver.get(url);
-	driver.manage().window().maximize();
+	
 	}
 	
 	
